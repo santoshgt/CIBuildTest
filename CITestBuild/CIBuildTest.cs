@@ -16,7 +16,7 @@ namespace CITestBuild
         public List<UserInfo> GetUserList()
         {
             return new List<UserInfo> { new UserInfo { UserID = 1, Name = "Pratap", Email = "pratap@yopmail.com" },
-                new UserInfo { UserID = 2, Name = "santosh", Email = "santosh@yopmail.com" } };
+                new UserInfo { UserID = 3, Name = "santosh", Email = "santosh@yopmail.com" } };
         }
 
     }
