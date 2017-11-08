@@ -3,3 +3,8 @@ H:\WORKING\!@Simpal\CITest\CITestBuild\bin\Debug\CITestBuild.pdb
 H:\WORKING\!@Simpal\CITest\CITestBuild\obj\Debug\CITestBuild.csprojResolveAssemblyReference.cache
 H:\WORKING\!@Simpal\CITest\CITestBuild\obj\Debug\CITestBuild.dll
 H:\WORKING\!@Simpal\CITest\CITestBuild\obj\Debug\CITestBuild.pdb
+H:\WORKING\!@Simpal\!@CITest\CITestBuild\bin\Debug\CITestBuild.dll
+H:\WORKING\!@Simpal\!@CITest\CITestBuild\bin\Debug\CITestBuild.pdb
+H:\WORKING\!@Simpal\!@CITest\CITestBuild\obj\Debug\CITestBuild.csprojResolveAssemblyReference.cache
+H:\WORKING\!@Simpal\!@CITest\CITestBuild\obj\Debug\CITestBuild.dll
+H:\WORKING\!@Simpal\!@CITest\CITestBuild\obj\Debug\CITestBuild.pdb
