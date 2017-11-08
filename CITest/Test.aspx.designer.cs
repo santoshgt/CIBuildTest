@@ -10,7 +10,7 @@
 namespace CITest {
     
     
-    public partial class Default {
+    public partial class Test {
         
         /// <summary>
         /// form1 control.
