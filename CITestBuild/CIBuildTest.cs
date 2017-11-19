@@ -19,7 +19,8 @@ namespace CITestBuild
                 new UserInfo { UserID = 2, Name = "santosh", Email = "santosh@yopmail.com" },
 				new UserInfo { UserID = 3, Name = "prabhash", Email = "pravash@yopmail.com" },
 				new UserInfo { UserID = 4, Name = "swornim", Email = "swornim@yopmail.com" } ,
-				new UserInfo { UserID = 4, Name = "prakash", Email = "prakash@yopmail.com" }};
+				new UserInfo { UserID = 4, Name = "prakash", Email = "prakash@yopmail.com" }
+				};
         }
 
     }
