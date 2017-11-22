@@ -8,7 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
+        <div Width="500px">
             <asp:GridView ID="grdUsers" runat="server" BackColor="White" BorderColor="#336666"
                 BorderStyle="Double" BorderWidth="3px" CellPadding="4" GridLines="Horizontal">
                 <FooterStyle BackColor="White" ForeColor="#333333" />
