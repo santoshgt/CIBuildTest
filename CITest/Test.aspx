@@ -5,10 +5,26 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
+    <style>
+    html {
+	height:100%;
+}
+body {
+	height:100%;
+	margin:0px;
+}
+.myDiv {
+	float:left;
+	height:100%;
+	width:100%;
+	background-color:#FF0000;
+}
+</style>
+
 </head>
 <body>
     <form id="form1" runat="server">
-        <div Width="500px">
+        <div class="myDiv">
             <asp:GridView ID="grdUsers" runat="server" BackColor="White" BorderColor="#336666"
                 BorderStyle="Double" BorderWidth="3px" CellPadding="4" GridLines="Horizontal">
                 <FooterStyle BackColor="White" ForeColor="#333333" />
